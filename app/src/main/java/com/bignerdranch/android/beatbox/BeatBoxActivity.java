@@ -12,6 +12,7 @@ public class BeatBoxActivity extends SingleFragmentActivity{
         return BeatBoxFragment.newInstance();
         //terbt
 
+
     }
 
 }
